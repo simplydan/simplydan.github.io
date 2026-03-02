@@ -1,2 +1,2 @@
 # simplydan.github.io
-Hosts images from legacy teamtaylor site
+Placeholder for future development.  Or not.
